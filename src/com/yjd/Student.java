@@ -7,5 +7,6 @@ package com.yjd;
  * @version: 1.0
  */
 public class Student {
-
+    private int a ; //
+    private int b ; //
 }
